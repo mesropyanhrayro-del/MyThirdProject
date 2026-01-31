@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MyThirdProject.iml" filepath="$PROJECT_DIR$/.idea/MyThirdProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../S3 countdown/.idea/S3 countdown.iml" filepath="$PROJECT_DIR$/../../S3 countdown/.idea/S3 countdown.iml" />
+    </modules>
+  </component>
+</project>
