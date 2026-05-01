@@ -10,6 +10,6 @@ Rejects negative values.
 
 Displays countdown in HH:MM:SS format.
  # File Structure
-countdown_timer.py       # Main program file
+countDownTimer.py       # Main program file
 
 README.md              # Documentation 
